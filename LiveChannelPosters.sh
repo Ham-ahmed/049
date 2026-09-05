@@ -14,7 +14,7 @@ NC='\033[0m' # No Color
 echo -e "${CYAN}"
 echo "##################################################"
 echo "#      LiveChannelPosters Installation Script    #"
-echo "#                   Version 2.1                  #"
+echo "#                 Version 3.0                    #"
 echo "##################################################"
 echo -e "${NC}"
 sleep 2s
